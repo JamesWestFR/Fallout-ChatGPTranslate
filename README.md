@@ -1,1 +1,1 @@
-![Description de la GIF](https://archive.org/download/fallout-chat-gptranslate/Fallout%20ChatGPTrad.gif)
+![Demo](https://archive.org/download/fallout-chat-gptranslate/Fallout%20ChatGPTrad.gif)
